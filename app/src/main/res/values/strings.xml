@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+
+    <!-- Main Activity -->
+    <string name="app_title">Algeria Tourist Guide</string>
+    <string name="app_description">Welcome to the Algeria Tourist Guide app. This app provides information about tourist attractions in Boumerdes and Algiers.</string>
+    <string name="select_city">Select a City to Explore:</string>
+    <string name="boumerdes">Boumerdes</string>
+    <string name="algiers">Algiers</string>
+
+    <!-- City Activities -->
+    <string name="tourist_sites">Tourist Sites and Attractions:</string>
+    <string name="boumerdes_description">Boumerdes is a coastal city in northern Algeria, known for its beautiful beaches and natural landscapes. It offers various tourist attractions, hotels, and restaurants.</string>
+    <string name="algiers_description">Algiers is the capital of Algeria, known for its whitewashed buildings, Ottoman palaces, and Mediterranean coastline. The city offers a rich blend of history, culture, and modern attractions.</string>
+
+    <!-- Site Details -->
+    <string name="description">Description</string>
+    <string name="contact_info">Contact Information</string>
+    <string name="phone">Phone: %s</string>
+    <string name="email">Email: %s</string>
+    <string name="call">Call</string>
+    <string name="sms">SMS</string>
+    <string name="email_button">Email</string>
+    <string name="sms_greeting">Hello, I am interested in visiting %s</string>
+    <string name="email_subject">Inquiry about %s</string>
+    <string name="email_body">Hello,\n\nI am interested in visiting %s and would like more information.\n\nThank you.</string>
+</resources>

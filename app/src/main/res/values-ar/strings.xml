@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيقي</string>
+
+    <!-- Main Activity -->
+    <string name="app_title">دليل سياحي للجزائر</string>
+    <string name="app_description">مرحبًا بك في تطبيق الدليل السياحي للجزائر. يوفر هذا التطبيق معلومات حول المعالم السياحية في بومرداس والجزائر العاصمة.</string>
+    <string name="select_city">اختر مدينة لاستكشافها:</string>
+    <string name="boumerdes">بومرداس</string>
+    <string name="algiers">الجزائر العاصمة</string>
+
+    <!-- City Activities -->
+    <string name="tourist_sites">المواقع والمعالم السياحية:</string>
+    <string name="boumerdes_description">بومرداس هي مدينة ساحلية في شمال الجزائر، معروفة بشواطئها الجميلة ومناظرها الطبيعية. تقدم العديد من المعالم السياحية والفنادق والمطاعم.</string>
+    <string name="algiers_description">الجزائر العاصمة هي عاصمة الجزائر، معروفة بمبانيها البيضاء وقصورها العثمانية وساحلها المتوسطي. تقدم المدينة مزيجًا غنيًا من التاريخ والثقافة والمعالم الحديثة.</string>
+
+    <!-- Site Details -->
+    <string name="description">الوصف</string>
+    <string name="contact_info">معلومات الاتصال</string>
+    <string name="phone">هاتف: %s</string>
+    <string name="email">بريد إلكتروني: %s</string>
+    <string name="call">اتصال</string>
+    <string name="sms">رسالة</string>
+    <string name="email_button">بريد</string>
+    <string name="sms_greeting">مرحبًا، أنا مهتم بزيارة %s</string>
+    <string name="email_subject">استفسار حول %s</string>
+    <string name="email_body">مرحبًا،\n\nأنا مهتم بزيارة %s وأود الحصول على مزيد من المعلومات.\n\nشكرًا لكم.</string>
+</resources>
